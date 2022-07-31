@@ -3,8 +3,8 @@ layout: project_template
 title: Hardware Integration into IOT
 description: Creating embedded hardware to talk to third party applications through web requests for the purpose of IOT (Internet of things) exploration. Later portions of the project will expand upon this idea to use more complex hardware and software to do more.
 date: 2000-01-11 09:00:00
-hero_image: /web/img/Hardware-Integration-into-IOT/open_house.png
-image: /web/img/Hardware-Integration-into-IOT/open_house.png
+hero_image: /web/img/Hardware-Integration-into-IOT/Hero.png
+image: /web/img/Hardware-Integration-into-IOT/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
