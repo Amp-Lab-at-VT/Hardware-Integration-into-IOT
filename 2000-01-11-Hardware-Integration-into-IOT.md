@@ -9,10 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: William Gerhard
-Alexis Tuason
-Linda Li
-Tom Chen
+author: William Gerhard, Alexis Tuason, Linda Li, Tom Chen
 show_sidebar: false
 ---
 
