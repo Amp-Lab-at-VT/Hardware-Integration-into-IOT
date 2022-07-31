@@ -25,7 +25,7 @@ Linda Li
 Tom Chen
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Hardware-Integration-into-IOT"" >Hardware-Integration-into-IOT</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Hardware-Integration-into-IOT" >Hardware-Integration-into-IOT</a>
 
 ## Photo
 
